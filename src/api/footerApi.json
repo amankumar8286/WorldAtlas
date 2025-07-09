@@ -1,0 +1,20 @@
+[
+    {
+        
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details":"pune, Maharasthra"
+    },
+    {
+        
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details":"49654564"
+    },
+    {
+        
+        "icon": "TbMailPlus",
+        "title": "Mail us ",
+        "details":"cxonjas@gmail.com"
+    }
+]

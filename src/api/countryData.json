@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "country_name": "United States",
+        "capital": "Washington, D.C.",
+        "population": "339000000",
+        "interesting_fact": "The U.S. has no official language at the federal level."
+    },
+    {
+        "id": 2,
+        "country_name": "India",
+        "capital": "New Delhi",
+        "population": "1440000000",
+        "interesting_fact": "India is the world’s largest democracy."
+    },
+    {
+        "id": 3,
+        "country_name": "China",
+        "capital": "Beijing",
+        "population": "1410000000",
+        "interesting_fact": "The Great Wall of China is visible from space in certain conditions."
+    },
+    {
+        "id": 4,
+        "country_name": "Brazil",
+        "capital": "Brasília",
+        "population": "215000000",
+        "interesting_fact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest."
+    },
+    {
+        "id": 5,
+        "country_name": "Japan",
+        "capital": "Tokyo",
+        "population": "124000000",
+        "interesting_fact": "Japan has more pets than children."
+    },
+    {
+        "id": 6,
+        "country_name": "Germany",
+        "capital": "Berlin",
+        "population": "83000000",
+        "interesting_fact": "Germany is known for its high-speed Autobahn highways."
+    },
+    {
+        "id": 7,
+        "country_name": "Australia",
+        "capital": "Canberra",
+        "population": "26000000",
+        "interesting_fact": "Australia is the only continent that is also a country."
+    },
+    {
+        "id": 8,
+        "country_name": "Canada",
+        "capital": "Ottawa",
+        "population": "40000000",
+        "interesting_fact": "Canada has more lakes than the rest of the world combined."
+    },
+    {
+        "id": 9,
+        "country_name": "Egypt",
+        "capital": "Cairo",
+        "population": "112000000",
+        "interesting_fact": "Egypt is home to the only remaining ancient wonder: the Great Pyramid of Giza."
+    },
+    {
+        "id": 10,
+        "country_name": "South Korea",
+        "capital": "Seoul",
+        "population": "52000000",
+        "interesting_fact": "South Korea has one of the fastest internet speeds in the world."
+    }
+]
