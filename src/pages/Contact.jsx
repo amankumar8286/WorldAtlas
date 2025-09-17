@@ -6,7 +6,6 @@ const handleFormSubmit = (formData) => {
     console.log(formInputData);
 };
 
-
     return <header className="">
         <section className="section-contact">
         <h2 className="container-title"></h2>
